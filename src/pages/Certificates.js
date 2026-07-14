@@ -4,7 +4,7 @@ import "./Certificates.css";
 function Certificates() {
   return (
     <section className="certificates">
-      <h1 className="certificates-title">Certificates</h1>
+      <h1 className="certificates-title">Certifications</h1>
 
       <div className="certificate-container">
 
