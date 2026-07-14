@@ -14,7 +14,7 @@ function Home() {
           Siri <span>Bollineni</span>
         </h1>
 
-        <h2></h2>
+        <h2>...</h2>
 
         <p className="description">
           Computer Science student passionate about Artificial Intelligence,
