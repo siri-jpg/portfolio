@@ -17,9 +17,8 @@ function Home() {
         <h2>...</h2>
 
         <p className="description">
-          Computer Science student passionate about Artificial Intelligence,
-          Machine Learning and Full Stack Development. I enjoy creating modern,
-          responsive and intelligent web applications. moreover i love going towards modren era which Artficial intelligence
+       Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full Stack Development. 
+      I enjoy building modern, responsive, and intelligent web applications while continuously exploring emerging AI technologies to solve real-world problems.
         </p>
 
         <div className="buttons">
